@@ -1,0 +1,11 @@
+مكن لنا تحديد نوع المتغير بالطريقة التالية
+ 
+
+  var num:Int            عدد صحيح
+  var num:Short      عدد قصير
+  var num:Long         عدد كبير
+  var num:Float       عدد عشري
+  var num:Double    عدد مضاعف
+  var name:String    متغير نصي
+  var b:Boolean      متغير تعبيري
+  var c:Char          متغير حرفي
